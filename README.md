@@ -48,7 +48,7 @@ Soy **Administrador de sistemas informáticos** y **Desarrollador Web** con un e
 - **Edición multimedia**  
 - **Marketing digital**  
 - **Publicidad y diseño gráfico**  
-- **DJing**  
+- **DJ**  
 
 ---
 
