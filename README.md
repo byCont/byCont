@@ -100,7 +100,7 @@ Soy **Administrador de sistemas informáticos** y **Desarrollador Web** con un e
 
 ## 📫 Contáctame
 
-- **Correo electrónico**: [tuemail@example.com](mailto:dicontrerasb@unal.edu.co)  
+- **Correo electrónico**: [dicontrerasb@unal.edu.co](mailto:dicontrerasb@unal.edu.co)  
 - **LinkedIn**: [linkedin.com/in/danielcont](#)  
 - **Portafolio**: [danielcontreras.dev](#)  
 - **GitHub**: [github.com/byCont](#)
