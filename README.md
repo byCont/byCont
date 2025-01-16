@@ -4,12 +4,6 @@ Soy **Administrador de sistemas informáticos** y **Desarrollador Web** con un e
 
 ---
 
-## 🌟 Sobre mí
-
-Desde antes de comenzar mis estudios, la tecnología ha sido una de mis mayores pasiones. Actualmente, estoy desarrollando proyectos personales relacionados con la **edición multimedia** y el mundo **DJ**. Siempre busco aprender nuevas herramientas y técnicas para mejorar mis habilidades y aportar valor en cada proyecto.
-
----
-
 ## 🛠️ Tecnologías y herramientas que utilizo
 
 - **Frontend & Diseño**: React | Vue | Tailwind CSS | Bootstrap | Figma | Photoshop | Illustrator  
