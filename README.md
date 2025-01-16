@@ -81,7 +81,7 @@ Desde antes de comenzar mis estudios, la tecnología ha sido una de mis mayores 
 
 ## 📫 Contáctame
 
-- **Correo electrónico**: [tuemail@example.com](mailto:tuemail@example.com)  
-- **LinkedIn**: [linkedin.com/in/danielcontreras](#)  
+- **Correo electrónico**: [tuemail@example.com](mailto:dicontrerasb@unal.edu.co)  
+- **LinkedIn**: [linkedin.com/in/danielcont](#)  
 - **Portafolio**: [danielcontreras.dev](#)  
-- **GitHub**: [github.com/tuusuario](#)
+- **GitHub**: [github.com/byCont](#)
