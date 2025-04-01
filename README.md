@@ -55,5 +55,5 @@ Soy **Administrador de sistemas informáticos** y **Desarrollador Web** con un e
 ## 📫 Contáctame
 
 - **Correo electrónico**: [dicontrerasb@unal.edu.co](mailto:dicontrerasb@unal.edu.co)  
-- **LinkedIn**: [linkedin.com/in/danielcont](linkedin.com/in/danielcont)  
+- **LinkedIn**: [linkedin.com/in/danielcont](https://www.linkedin.com/in/danielcont/)  
 - **Portafolio**: [https://danielcont.netlify.app/](https://danielcont.netlify.app/)
